@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 credentials.json
+__pycache__
